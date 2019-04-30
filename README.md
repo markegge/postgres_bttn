@@ -19,4 +19,4 @@ Determine the income distribution of households living within 5 km of TxDOT's Bi
 
 * PostgreSQL with PostGIS extension installed
 * Python 3, matplotlib, pandas
-* SQL Extension for Jupyter Notebook (recommended)
+* [SQL Extension for Jupyter Notebook](https://github.com/catherinedevlin/ipython-sql) (recommended)
